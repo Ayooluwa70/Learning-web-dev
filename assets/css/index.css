@@ -69,7 +69,7 @@ header{
     display: flex;
     border: 1px solid #DDDDDD;
     width: 70%;
-    margin: 30px;
+    margin: 20px;
     font-size: 12px;
     align-items: center;
     border-radius: 40px;
@@ -125,9 +125,27 @@ label{
 }
 .searchimg{
     height: 40px;
-    width: 40px;
+    width: 50px;
     margin-right: 5px;
 }
 .main-content{
 border: 1.5px solid #DDDDDD;
+padding: 30px;
+padding-top: 40px;
+}
+.row1{
+    display: flex;
+    gap: 10px;
+}
+.row1-p1{
+    font-size: 13px;
+    font-weight: 550;
+}
+.row1-p2{
+    font-size:11px
+}
+.room1{
+    height: 140px;
+    width: 150px;
+    border-radius: 20px;
 }
